@@ -1,0 +1,24 @@
+{
+  "name": "authenticate-and-authorize",
+  "version": "1.0.0",
+  "description": "The authenticate and authorization is an app users can login and access their data from back end.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosario1424/auth-and-authorize.git"
+  },
+  "keywords": [
+    "name",
+    "email",
+    "password"
+  ],
+  "author": "Divia Rozario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosario1424/auth-and-authorize/issues"
+  },
+  "homepage": "https://github.com/rosario1424/auth-and-authorize#readme"
+}
