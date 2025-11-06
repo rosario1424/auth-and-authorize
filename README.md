@@ -1,3 +1,8 @@
+## Documentation URL for authentication & authorization  
+
+https://documenter.getpostman.com/view/49278169/2sB3Wqvg4d
+
+
 # #Node.js Authentication & Authorization with JWT (Bearer Token)
 
 This task demonstrates how to implement **user authentication and authorization** using **Bearer tokens (JWT)** in a Node.js application built with **Express.js** and **MongoDB (Mongoose)**.  
